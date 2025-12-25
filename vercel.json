@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/wechat.js": {
-      "runtime": "nodejs24.x"
-    }
-  }
-}
