@@ -1,0 +1,11 @@
+{
+  "name": "wechat-push-test",
+  "version": "1.0.0",
+  "description": "微信公众号消息回复接口",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
