@@ -2,9 +2,10 @@
   "functions": {
     "api/wechat.js": {
       "runtime": "nodejs24.x",
-      "bodyParser": {
-        "sizeLimit": "1mb",
-        "type": "text/plain"
+      "bodyParsers": {
+        "text": {
+          "sizeLimit": "1mb"
+        }
       }
     }
   }
